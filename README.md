@@ -16,4 +16,5 @@ Install the dependencies.
 $ pip install speechrecognition
 $ pip install pipwin
 $ pipwin install pyaudio
+$ pip install spacy
 ```
