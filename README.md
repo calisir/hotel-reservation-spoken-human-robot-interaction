@@ -1,9 +1,11 @@
 # Hotel Reservation Spoken Human Robot Interaction
+In this project, our aim is to implement a task oriented SDS in a specific hotel reservation scenario. 
 
-
-# To Be Done
-
-  - Espeak download page 
+### Pipeline
+-	Acquires a spoken sentence
+-	Calls the ASR to get the corresponding text
+-	Calls DP, prints the dependency graph 
+-	Returns some info through the text-to-speech
 
 ### Usage
 
